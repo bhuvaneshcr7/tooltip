@@ -1,0 +1,75 @@
+
+.div{
+  background-color: aqua;
+}
+.box{
+  background-color: darkgray;
+  width: 300px;
+  height: 600px;
+  border: 1px solid black;
+  border-radius: 3%;
+  border-width: 12px;
+  margin: 10px;
+  position: -ms-page;
+  padding: 10px;
+  }
+
+  .button1{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-inline-end: 0cm;
+    width: 95px;
+    height: 35px;
+  }
+  .button2{
+    margin-block-start: 0.1cm;
+    margin-inline-end: 0cm;
+    width: 95px;
+
+    position: absolute;
+    left: 225px;
+    height: 35px;
+  }
+  
+  
+  .button4{
+    margin-left: 15px;
+    margin-block-start: 0.1cm;
+    margin-inline-end: 0cm;
+    width: 95px;
+    margin-bottom: 10px;
+
+    position: absolute;
+    top: 583px;
+    left: 25px;
+    height: 35px;
+
+  }
+  .button5{
+
+    position: absolute;
+    top: 585px;
+    width: 95px;
+    left: 225px;
+    height: 35px;
+    margin: auto;
+    
+  }
+.button3{
+  position: absolute;
+  top: 298px;
+  left: 126px;
+  width: 95px;
+  height: 35px;
+
+
+
+}
+  
+.tooltip{
+  background-color: black;
+  color: white;
+  margin: 3px;
+  border-radius: 25px;
+  padding-inline: 7px;
+}
